@@ -1,7 +1,7 @@
 # Hi, I'm Junio 👋🏻👨🏻‍💻
 <div>
   <a href="https://github.com/odevjunio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odevjunio&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odevjunio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odevjunio&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
